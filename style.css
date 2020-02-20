@@ -35,6 +35,6 @@ body{
     transition: 0.4s;
 }
 
-.container a;hover{
+.container a:hover{
     background: #e55039;
 }
